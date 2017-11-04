@@ -27,7 +27,7 @@ invented by &lt;a href="https://en.wikipedia.org/wiki/%C3%89tienne_Lenoir"&gt;É
 
 &lt;!-- ![The Lenoir engine](|attach|images/Lenoirmotor.jpg) --&gt;
 
-&lt;p&gt;&lt;img src="/images/Lenoirmotor.jpg" alt="The Lenoir engine"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;center&gt;&lt;!-- &lt;/center&gt; --&gt;&lt;img src="/images/Lenoirmotor.jpg" alt="The Lenoir engine"&gt;&lt;/center&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h3&gt;Footnotes&lt;/h3&gt;&lt;ol class="simple-footnotes"&gt;&lt;li id="sf-the-early-history-of-water-injection-1"&gt;Rowe, &lt;span class="caps"&gt;M. R.&lt;/span&gt; and Ladd, G. T.,
 &lt;em&gt;Water Injection for Aircraft Engines&lt;/em&gt;, &lt;span class="caps"&gt;SAE&lt;/span&gt; Technical Paper, 460192,
 doi:&lt;a href="http://dx.doi.org/10.4271/460192"&gt;10.4271/460192&lt;/a&gt;, 1946. &lt;a class="simple-footnote-back" href="#sf-the-early-history-of-water-injection-1-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;li id="sf-the-early-history-of-water-injection-2"&gt;Zima, S., &lt;em&gt;Internal Combustion Engine Handbook&lt;/em&gt;, chapter
