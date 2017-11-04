@@ -23,7 +23,10 @@ down’ the chemical energy hence released.&lt;/p&gt;
 &lt;p&gt;Probably because it has been the first &lt;span class="caps"&gt;ICE&lt;/span&gt; to be commercialized at a relatively
 large scale, with about 5000 engines built, the &lt;em&gt;Lenoir engine&lt;/em&gt;, see below,
 invented by &lt;a href="https://en.wikipedia.org/wiki/%C3%89tienne_Lenoir"&gt;Étienne Lenoir&lt;/a&gt;, is one of the most famous. &lt;/p&gt;
-&lt;p&gt;&lt;img alt="The Lenoir engine" src="images/Lenoirmotor.jpg" align="middle"&gt;&lt;/p&gt;
+&lt;!-- &lt;img src="images/Lenoirmotor.jpg" alt="The Lenoir engine" align="middle"&gt; --&gt;
+
+&lt;!-- ![The Lenoir engine](|attach|images/Lenoirmotor.jpg) --&gt;
+
 &lt;p&gt;&lt;img src="images/Lenoirmotor.jpg" alt="The Lenoir engine"&gt;&lt;/p&gt;
 &lt;h3&gt;Footnotes&lt;/h3&gt;&lt;ol class="simple-footnotes"&gt;&lt;li id="sf-the-early-history-of-water-injection-1"&gt;Rowe, &lt;span class="caps"&gt;M. R.&lt;/span&gt; and Ladd, G. T.,
 &lt;em&gt;Water Injection for Aircraft Engines&lt;/em&gt;, &lt;span class="caps"&gt;SAE&lt;/span&gt; Technical Paper, 460192,
