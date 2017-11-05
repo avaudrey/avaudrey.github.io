@@ -1,40 +1,146 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Alexandre Vaudrey personal page - Alexandre Vaudrey</title><link href="https://avaudrey.github.io/" rel="alternate"></link><link href="https://avaudrey.github.io/feeds/alexandre-vaudrey.atom.xml" rel="self"></link><id>https://avaudrey.github.io/</id><updated>2017-11-04T22:20:00+01:00</updated><entry><title>The early history of water injection into internal combustion engines</title><link href="https://avaudrey.github.io/posts/2017/nov./04/the-early-history-of-water-injection.html" rel="alternate"></link><published>2017-11-04T18:30:00+01:00</published><updated>2017-11-04T18:30:00+01:00</updated><author><name>Alexandre Vaudrey</name></author><id>tag:avaudrey.github.io,2017-11-04:/posts/2017/nov./04/the-early-history-of-water-injection.html</id><summary type="html">&lt;p&gt;Contrary to some common belief, the interest of injecting liquid water into internal combustion engines is actually as old as this engines. However, the original goal of such a strategy was not exactly the same as it is&amp;nbsp;nowadays.&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;It is quite usual for authors of scientific papers dealing with &lt;a href="https://en.wikipedia.org/wiki/Water_injection_(engine)"&gt;water
-injection&lt;/a&gt; applied to &lt;a href="https://en.wikipedia.org/wiki/Internal_combustion_engine"&gt;internal combustion engines&lt;/a&gt; (&lt;span class="caps"&gt;ICE&lt;/span&gt;), to
-date back the invention of this process to its famous application on some
+&lt;p&gt;It is quite usual for authors of papers dealing with &lt;a href="https://en.wikipedia.org/wiki/Water_injection_(engine)"&gt;water injection&lt;/a&gt;
+applied to &lt;a href="https://en.wikipedia.org/wiki/Internal_combustion_engine"&gt;internal combustion engines&lt;/a&gt; (&lt;span class="caps"&gt;ICE&lt;/span&gt;), to date back the
+invention of this process to its famous application on some
 &lt;a href="https://en.wikipedia.org/wiki/Supercharger"&gt;supercharged&lt;/a&gt; &lt;span class="caps"&gt;WW2&lt;/span&gt; aircraft engines&lt;sup id="sf-the-early-history-of-water-injection-1-back"&gt;&lt;a title="Rowe, M. R. and Ladd, G. T., Water Injection for Aircraft Engines, SAE Technical Paper, 460192, doi:10.4271/460192, 1946." class="simple-footnote" href="#sf-the-early-history-of-water-injection-1"&gt;1&lt;/a&gt;&lt;/sup&gt;. However, this idea actually dates from
 the very beginning of the &lt;span class="caps"&gt;ICE&lt;/span&gt; history, and its initial goal was quite different
-from the current one. But before getting to the heart of the matter, let us say
-few words about the early ages of &lt;span class="caps"&gt;ICE&lt;/span&gt;.&lt;/p&gt;
+from the current one, mostly related to pollutions mitigation. But before
+getting to the heart of the matter, let us say few words about the early ages
+of &lt;span class="caps"&gt;ICE&lt;/span&gt;.&lt;/p&gt;
 &lt;p&gt;According to Zima&lt;sup id="sf-the-early-history-of-water-injection-2-back"&gt;&lt;a title="Zima, S., Internal Combustion Engine Handbook, chapter 1: Historical Review, SAE International, 2004. " class="simple-footnote" href="#sf-the-early-history-of-water-injection-2"&gt;2&lt;/a&gt;&lt;/sup&gt;, the first &lt;span class="caps"&gt;ICE&lt;/span&gt; were
 developed during the second half of the &lt;span class="caps"&gt;XIX&lt;/span&gt; century as alternative sources of
-mechanical power, cheaper than the expensive steam engines.  Logically, their
+mechanical power, cheaper than the expensive steam engines. Logically, their
 practical use were based on available and inexpensive fuels as well. The fuels
 consumed by such engines were then often heterogeneous, composed by gaseous
 (&lt;em&gt;hydrogen&lt;/em&gt;, &lt;em&gt;lighting gas&lt;/em&gt;, &lt;em&gt;liquid heavy oils&lt;/em&gt;) and sometimes solid
 components, as &lt;em&gt;coal dusts&lt;/em&gt;&lt;sup id="sf-the-early-history-of-water-injection-3-back"&gt;&lt;a title="Lawton, B., The Piston Engine Revolution, chapter 9: Some Early Internal Combustion Engines, The Newcomen Society, 2011." class="simple-footnote" href="#sf-the-early-history-of-water-injection-3"&gt;3&lt;/a&gt;&lt;/sup&gt;. The nowadays usual light fractions of crude oil, including
-gasoline, have been indeed available for engines only since the late
-1800s&lt;sup id="sf-the-early-history-of-water-injection-4-back"&gt;&lt;a title="Heywood, J. B., Internal Combustion Engine Fundamentals, McGraw-Hill, 1988." class="simple-footnote" href="#sf-the-early-history-of-water-injection-4"&gt;4&lt;/a&gt;&lt;/sup&gt; The combustions of such fuels were actually often
+&lt;em&gt;gasoline&lt;/em&gt;, have been indeed available for engines only since the late
+1800s&lt;sup id="sf-the-early-history-of-water-injection-4-back"&gt;&lt;a title="Heywood, J. B., Internal Combustion Engine Fundamentals, McGraw-Hill, 1988." class="simple-footnote" href="#sf-the-early-history-of-water-injection-4"&gt;4&lt;/a&gt;&lt;/sup&gt; The combustions of such fuels were thus often
 ‘brutal’, producing too high temperatures and were difficult to control. This
 issue led some engineers of these days to look for a way to dilute and ‘slow
 down’ the chemical energy hence released.&lt;/p&gt;
 &lt;h2&gt;The Lenoir engine&lt;/h2&gt;
 &lt;p&gt;Probably because it has been the first &lt;span class="caps"&gt;ICE&lt;/span&gt; to be commercialized at a relatively
-large scale, with about 5000 engines built, the &lt;em&gt;Lenoir engine&lt;/em&gt;, see below,
-invented by &lt;a href="https://en.wikipedia.org/wiki/%C3%89tienne_Lenoir"&gt;Étienne Lenoir&lt;/a&gt;, is one of the most famous. &lt;/p&gt;
-&lt;!-- &lt;img src="images/Lenoirmotor.jpg" alt="The Lenoir engine" align="middle"&gt; --&gt;
+large scale, with about 5000 engines built, the &lt;em&gt;Lenoir engine&lt;/em&gt; (as the one
+presented below), invented by the Belgian engineer &lt;a href="https://en.wikipedia.org/wiki/%C3%89tienne_Lenoir"&gt;Étienne
+Lenoir&lt;/a&gt;, is one of the most famous&lt;sup id="sf-the-early-history-of-water-injection-5-back"&gt;&lt;a title="Slade, F. J., The Lenoir gas engine, Journal of the Franklin Institute, 81(3), pp. 175-179, doi:10.1016/0016-0032(66)90172-4, 1866." class="simple-footnote" href="#sf-the-early-history-of-water-injection-5"&gt;5&lt;/a&gt;&lt;/sup&gt;. Its &lt;a href="https://en.wikipedia.org/wiki/Lenoir_cycle"&gt;‘three-stroke’
+thermodynamic cycle&lt;/a&gt;, without any compression stroke before
+the combustion one, is also quite well known.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;center&gt;&lt;!-- &lt;/center&gt; --&gt;&lt;img src="/images/Lenoirmotor.jpg" alt="The Lenoir engine"&gt;&lt;/center&gt;
+&lt;center&gt;An actual Lenoir engine, picture credit to &lt;a href="https://commons.wikimedia.org/wiki/User:Jojhnjoy]"&gt;Jojhnjoy&lt;/a&gt;. &lt;/center&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;What is less known yet, is that Lenoir also proposed, in a French
+patent&lt;sup id="sf-the-early-history-of-water-injection-6-back"&gt;&lt;a title="Lenoir, J. J. E., Moteur à Air Dilaté par la Combustion des Gaz, Brevet n°1BB43624(4), 1861." class="simple-footnote" href="#sf-the-early-history-of-water-injection-6"&gt;6&lt;/a&gt;&lt;/sup&gt; filled in 1861, to inject &lt;em&gt;steam&lt;/em&gt; or &lt;em&gt;vapor
+spray&lt;/em&gt; into the engine cylinder in order to ‘cool it down’. According to
+&lt;a href="https://en.wikipedia.org/wiki/Dugald_Clerk"&gt;Clerk&lt;/a&gt;&lt;sup id="sf-the-early-history-of-water-injection-7-back"&gt;&lt;a title="Clerk, D., Gas and Oil Engines, Longman Green &amp;amp; Co, 1897." class="simple-footnote" href="#sf-the-early-history-of-water-injection-7"&gt;7&lt;/a&gt;&lt;/sup&gt; (inventor of the first &lt;a href="https://en.wikipedia.org/wiki/Two-stroke_engine"&gt;two-stroke engine&lt;/a&gt;, btw)
+though, the Lenoir’s idea was based on his erroneous understanding of the
+nature of gaseous explosions. Lenoir supposed that the performances of his
+engine would benefit from a ‘slowing’ of the explosion phenomenon, so the water
+injection system.&lt;/p&gt;
+&lt;p&gt;Despite this proposal, I did not find any mention in the literature to a
+practical implementation of such improvement on an actual Lenoir engine. This
+idea has been effectively setup on a real engine though, not by Lenoir but by
+his first contestant: &lt;a href="https://en.wikipedia.org/wiki/Pierre_Hugon"&gt;Pierre Hugon&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;The Hugon engine&lt;/h2&gt;
+&lt;p&gt;In a &lt;span class="caps"&gt;US&lt;/span&gt; patent&lt;sup id="sf-the-early-history-of-water-injection-8-back"&gt;&lt;a title="Hugon, P., Improvement in Gas-Engines, United States Patent 49346, 1865." class="simple-footnote" href="#sf-the-early-history-of-water-injection-8"&gt;8&lt;/a&gt;&lt;/sup&gt; filed in 1865, &lt;a href="https://en.wikipedia.org/wiki/Pierre_Hugon"&gt;Pierre
+Hugon&lt;/a&gt; has indeed proposed to inject &lt;strong&gt;liquid water&lt;/strong&gt;, and not
+steam&lt;sup id="sf-the-early-history-of-water-injection-9-back"&gt;&lt;a title="The difference is crucial in this context. Steam being already vaporised, no latent heat of vaporisation can be used to absorb a fraction of the chemical energy released by the combustion process in order to control it. Furthermore, the resulting increase of water specific volume is responsible for a supplementary pressure applied on the piston." class="simple-footnote" href="#sf-the-early-history-of-water-injection-9"&gt;9&lt;/a&gt;&lt;/sup&gt; into the engine cylinder
+in order to ‘&lt;em&gt;impart to the engine a more regular action and prevent the grease
+of lubricating substance from being burned&lt;/em&gt;‘. The first experiments of such a
+process have been led on July 20, 1866, at the French &lt;a href="http://www.cnam.eu/site-en/"&gt;Conservatoire National
+des Arts et Métiers (&lt;span class="caps"&gt;CNAM&lt;/span&gt;)&lt;/a&gt; in Paris, under the direction of
+professor &lt;a href="https://en.wikipedia.org/wiki/Henri_Tresca"&gt;Henri Tresca&lt;/a&gt;&lt;sup id="sf-the-early-history-of-water-injection-10-back"&gt;&lt;a title="Tresca, M. H., Procès-Verbal des Expériences faites sur le moteur à Gaz de M. Hugon, Annales du Conservatoire Impérial des Arts et Métiers, Tome Septième, 20 juillet 1866." class="simple-footnote" href="#sf-the-early-history-of-water-injection-10"&gt;10&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;center&gt;&lt;!-- &lt;/center&gt; --&gt;&lt;img src="/images/hugon-engine.png" alt="The Hugon engine"&gt;&lt;/center&gt;
+&lt;center&gt;Schematic of the Hugon engine, extract from the 1865 patent. &lt;/center&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Experiments having been done with and without water injection, Tresca and his
+fellows have noticed a difference in the indicated diagram (&lt;span class="math"&gt;\(p,V\)&lt;/span&gt;) of the
+engine, as well as a decrease of the exhaust gas temperature. Nevertheless,
+they conclude on a interest of such process mostly for the conservation of some
+engine internal parts and for aiding the lubrication. Clerk incidentally
+arrived at the very same conclusion in his book from 1897: ‘&lt;em&gt;Devices proposed
+for increasing power by the injection of water spray, and steam, in various
+ways failed to produce good effect except in aiding lubrication&lt;/em&gt;‘.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;Because of their similar will to better control the combustion processes
+occurring inside their contestant engines, Lenoir and Hugon — among the first
+inventors of gas engines — arrived at the same idea: &lt;strong&gt;injecting water&lt;/strong&gt;
+directly into these engine cylinders. However, probably because of both the
+inaccurate knowledge we had then of the phenomena occurring inside such
+systems, and of coarse measurement apparatus of these days, their idea was not
+recognised for its primary interest.&lt;/p&gt;
+&lt;h2&gt;Footnotes and references&lt;/h2&gt;
+&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
 
-&lt;!-- ![The Lenoir engine](|attach|images/Lenoirmotor.jpg) --&gt;
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
 
-&lt;p&gt;&lt;/p&gt;&lt;center&gt;&lt;!-- &lt;/center&gt; --&gt;&lt;img src="/images/Lenoirmotor.jpg" alt="The Lenoir engine"&gt;&lt;/center&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h3&gt;Footnotes&lt;/h3&gt;&lt;ol class="simple-footnotes"&gt;&lt;li id="sf-the-early-history-of-water-injection-1"&gt;Rowe, &lt;span class="caps"&gt;M. R.&lt;/span&gt; and Ladd, G. T.,
-&lt;em&gt;Water Injection for Aircraft Engines&lt;/em&gt;, &lt;span class="caps"&gt;SAE&lt;/span&gt; Technical Paper, 460192,
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;&lt;ol class="simple-footnotes"&gt;&lt;li id="sf-the-early-history-of-water-injection-1"&gt;Rowe, &lt;span class="caps"&gt;M. R.&lt;/span&gt; and Ladd, G.
+T., &lt;em&gt;Water Injection for Aircraft Engines&lt;/em&gt;, &lt;span class="caps"&gt;SAE&lt;/span&gt; Technical Paper, 460192,
 doi:&lt;a href="http://dx.doi.org/10.4271/460192"&gt;10.4271/460192&lt;/a&gt;, 1946. &lt;a class="simple-footnote-back" href="#sf-the-early-history-of-water-injection-1-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;li id="sf-the-early-history-of-water-injection-2"&gt;Zima, S., &lt;em&gt;Internal Combustion Engine Handbook&lt;/em&gt;, chapter
 1: Historical Review, &lt;span class="caps"&gt;SAE&lt;/span&gt; International, 2004.  &lt;a class="simple-footnote-back" href="#sf-the-early-history-of-water-injection-2-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;li id="sf-the-early-history-of-water-injection-3"&gt;Lawton, B., &lt;em&gt;The Piston Engine Revolution&lt;/em&gt;,
-chapter 9: Some Early Internal Combustion Engines, The Newcomen Society,
+&lt;a href="https://www.newcomen.com/wp-content/uploads/2012/12/Chapter-9-Lawton.pdf"&gt;chapter 9: Some Early Internal Combustion Engines&lt;/a&gt;, The Newcomen Society,
 2011. &lt;a class="simple-footnote-back" href="#sf-the-early-history-of-water-injection-3-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;li id="sf-the-early-history-of-water-injection-4"&gt;Heywood, J. B., &lt;em&gt;Internal Combustion Engine Fundamentals&lt;/em&gt;,
-McGraw-Hill, 1988. &lt;a class="simple-footnote-back" href="#sf-the-early-history-of-water-injection-4-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</content><category term="energy"></category><category term="ICE"></category><category term="thermodynamics"></category><category term="water_injection"></category></entry><entry><title>Beautiful view inside a spark ignited engine</title><link href="https://avaudrey.github.io/posts/2017/ao%C3%BBt/19/inside-si-engine.html" rel="alternate"></link><published>2017-08-19T16:50:00+02:00</published><updated>2017-11-04T22:20:00+01:00</updated><author><name>Alexandre Vaudrey</name></author><id>tag:avaudrey.github.io,2017-08-19:/posts/2017/août/19/inside-si-engine.html</id><summary type="html">&lt;p class="first last"&gt;Beautiful view through a transparent spark ignited combustion&amp;nbsp;engine, explaining few things about technology and fundamental&amp;nbsp;thermodynamics.&lt;/p&gt;
+McGraw-Hill, 1988. &lt;a class="simple-footnote-back" href="#sf-the-early-history-of-water-injection-4-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;li id="sf-the-early-history-of-water-injection-5"&gt;Slade, F. J., &lt;em&gt;The Lenoir
+gas engine&lt;/em&gt;, Journal of the Franklin Institute, 81(3), pp. 175-179,
+doi:&lt;a href="http://dx.doi.org/10.1016/0016-0032(66)90172-4"&gt;10.1016/0016-0032(66)90172-4&lt;/a&gt;, 1866. &lt;a class="simple-footnote-back" href="#sf-the-early-history-of-water-injection-5-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;li id="sf-the-early-history-of-water-injection-6"&gt;Lenoir, &lt;span class="caps"&gt;J. J.&lt;/span&gt; E., &lt;em&gt;Moteur à Air Dilaté par la Combustion des Gaz&lt;/em&gt;,
+Brevet n°&lt;span class="caps"&gt;1BB43624&lt;/span&gt;(4), 1861. &lt;a class="simple-footnote-back" href="#sf-the-early-history-of-water-injection-6-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;li id="sf-the-early-history-of-water-injection-7"&gt;Clerk, D., &lt;em&gt;Gas and Oil Engines&lt;/em&gt;, Longman Green &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Co,
+1897. &lt;a class="simple-footnote-back" href="#sf-the-early-history-of-water-injection-7-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;li id="sf-the-early-history-of-water-injection-8"&gt;Hugon, P., &lt;em&gt;Improvement in Gas-Engines&lt;/em&gt;, &lt;a href="https://www.google.fr/patents/US49346"&gt;United States
+Patent 49346&lt;/a&gt;, 1865. &lt;a class="simple-footnote-back" href="#sf-the-early-history-of-water-injection-8-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;li id="sf-the-early-history-of-water-injection-9"&gt;The difference is crucial in this context. Steam being already
+vaporised, no &lt;em&gt;latent heat of vaporisation&lt;/em&gt; can be used to absorb a fraction of
+the chemical energy released by the combustion process in order to control it.
+Furthermore, the resulting increase of water specific volume is responsible for
+a supplementary pressure applied on the piston. &lt;a class="simple-footnote-back" href="#sf-the-early-history-of-water-injection-9-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;li id="sf-the-early-history-of-water-injection-10"&gt;Tresca, M. H., &lt;em&gt;Procès-Verbal des
+Expériences faites sur le moteur à Gaz de M. Hugon&lt;/em&gt;, Annales du Conservatoire
+Impérial des Arts et Métiers, Tome Septième, 20 juillet 1866. &lt;a class="simple-footnote-back" href="#sf-the-early-history-of-water-injection-10-back"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</content><category term="energy"></category><category term="ICE"></category><category term="thermodynamics"></category><category term="water_injection"></category></entry><entry><title>Beautiful view inside a spark ignited engine</title><link href="https://avaudrey.github.io/posts/2017/ao%C3%BBt/19/inside-si-engine.html" rel="alternate"></link><published>2017-08-19T16:50:00+02:00</published><updated>2017-11-04T22:20:00+01:00</updated><author><name>Alexandre Vaudrey</name></author><id>tag:avaudrey.github.io,2017-08-19:/posts/2017/août/19/inside-si-engine.html</id><summary type="html">&lt;p class="first last"&gt;Beautiful view through a transparent spark ignited combustion&amp;nbsp;engine, explaining few things about technology and fundamental&amp;nbsp;thermodynamics.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;I recently found an interesting video of the inside of a transparent &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Spark-ignition_engine"&gt;spark ignited&lt;/a&gt; &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Four-stroke_engine"&gt;four stroke&lt;/a&gt; internal combustion engine, from the amazing &lt;a class="reference external" href="https://www.youtube.com/user/destinws2"&gt;SmarterEveryDay&lt;/a&gt; youtube channel. From a technical point of view, this animation is very interesting because we can clearly see where the &lt;em&gt;spark plug&lt;/em&gt; is (the tiny blue dot) and how it works, i.e. how it triggers the combustion process. Moreover, from a more &amp;#8216;thermodynamics&amp;#8217; standpoint, we can also approximately compare the speed of the flame front with the one of the piston. Clearly, the flame propagates itself in almost all the &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Compression_ratio"&gt;clearance volume&lt;/a&gt; while the piston just moves a little. The combustion process occurs then in an almost constant volume, and it&amp;#8217;s why we usually suppose it as &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Isochoric_process"&gt;isochoric&lt;/a&gt;.&lt;/p&gt;
 &lt;embed&gt;
 &lt;center&gt;
